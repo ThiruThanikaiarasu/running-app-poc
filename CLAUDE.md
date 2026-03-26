@@ -24,3 +24,4 @@ Beyond the base concept, the product vision extends further with additional feat
 - This is a POC — favour speed and clarity over perfection
 - Document decisions and reasoning in the relevant folders
 - Keep competitor research factual and up to date
+- Every time you change or add anything in this project, create a commit and push it
